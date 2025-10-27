@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "180ae391-73bd-c8b4-09c3-be50ff13fd56",
+  "instructors": {
+    "content": [
+      "415f2639-94c3-d0b5-c9fb-3fd8adaaa6cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f84b0976-1c1d-aa7d-b84f-d057d192f1c7",
+    "website": "18-712-introduction-to-representation-theory-fall-2010"
+  },
+  "course_title": "Introduction to Representation Theory",
+  "course_description": "The goal of this course is to give an undergraduate-level introduction to representation theory (of groups, Lie algebras, and associative algebras). Representation theory is an area of mathematics which, roughly speaking, studies symmetry in linear spaces.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.712",
+  "course_image_thumbnail": {
+    "content": "2a2ad3d5-4532-abab-eeaf-c18b1cd23b55",
+    "website": "18-712-introduction-to-representation-theory-fall-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "985922b1-74ec-4ec8-9948-92e5670fb788",
+  "site_short_id": "18.712-fall-2010",
+  "site_url_path": "courses/18-712-introduction-to-representation-theory-fall-2010",
+  "title": "Course Metadata"
+}
